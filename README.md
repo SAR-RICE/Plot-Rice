@@ -6,7 +6,7 @@
 ## 🔥🔥Highlights🔥🔥
 ### *1.The first global rice benchmark satellite dataset.*</br>
 ### *2.Coverage of 20 rice-growing countries worldwide.*</br>
-### *3.A Plot-level sample generation framework based on SAM-2 and machine learning.*</br>
+### *3.A Plot-level sample generation framework based on SAM-2 and phenological analysis.*</br>
 
 **1. Main Environments.** </br>
 The environment installation procedure can be followed by [SAM-2](https://github.com/facebookresearch/sam2), and additionally install the following packages:</br>
